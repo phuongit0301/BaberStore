@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971940356687-rut6281q6v9eouqquo2avfsbve62g5gr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971940356687-rut6281q6v9eouqquo2avfsbve62g5gr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjfOeW4nG_elqmAI-WKfuW3Ai-IxcUrgY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971940356687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ios.greglimo.barber</string>
+	<key>PROJECT_ID</key>
+	<string>barber-4582d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barber-4582d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971940356687:ios:16a4a46913c0e4c8f8c03a</string>
+	<key>DATABASE_URL</key>
+	<string>https://barber-4582d.firebaseio.com</string>
+</dict>
+</plist>

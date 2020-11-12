@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971940356687",
+    "firebase_url": "https://barber-4582d.firebaseio.com",
+    "project_id": "barber-4582d",
+    "storage_bucket": "barber-4582d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971940356687:android:48839a9cf8eadc0df8c03a",
+        "android_client_info": {
+          "package_name": "com.greglimo.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971940356687-5go3lqialusa0olseqsagplc3ejcov0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KBI_yGnhIgqqVlIJ3ps5JeCtjpEY0lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971940356687-5go3lqialusa0olseqsagplc3ejcov0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
